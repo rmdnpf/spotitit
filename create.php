@@ -4,7 +4,7 @@ error_reporting(0);
 date_default_timezone_set('Asia/Jakarta');
 echo "===============================================\n";
 echo "           Spotify Account Creator  \n"; 
-echo "               Github : dzgif    	\n";
+echo "               Github : Rmdnpf   	\n";
 echo "================================================\n";
 echo "[+] Email : ";
 $mail = trim(fgets(STDIN));
